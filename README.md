@@ -1,6 +1,6 @@
 ## Protecting Yourself from Remote Access Scams
 
->Explore the world of refund and remote access scams in this comprehensive bulletin authored by 30-year cybersecurity veteran, Kaotickj. Learn about their history, tactics, prevention, and reporting strategies. Gain insights to protect yourself and others in the digital realm. 
+>Explore the world of refund and remote access scams in this comprehensive bulletin authored by 30-year cybersecurity veteran, Johnny Watts, aka Kaotick Jay. Learn about their history, tactics, prevention, and reporting strategies. Gain insights to protect yourself and others in the digital realm. 
 
 ### Preface:
 
@@ -10,15 +10,22 @@ My journey into understanding these scams began with a deep dive into comprehens
 
 ##### Unveiling the Layers of History in Refund and Remote Access Scams
 
-Within the ever-shifting tapestry of the digital landscape, I found the roots of refund and remote access scams stretching back through the annals of time. These scams, far from being ephemeral creations, are the result of a historical journey paved by cybercriminals' relentless pursuit of exploiting technology for their nefarious gains. The intricate threads that form these scams have been woven together over the years, culminating in a complex narrative that spans continents and generations.
+In both refund and remote access scams, social engineering serves as the linchpin of the attack vector. Perpetrators meticulously craft narratives that resonate with human emotions, vulnerabilities, and trust. The continuous refinement of these tactics over time underscores cybercriminals' adaptive capabilities in response to technological advancements.
+
+The evolution of social engineering can be traced through various techniques employed by malicious actors. Initially, simple tactics such as pretexting, phishing, and baiting were prevalent. However, as cybersecurity measures advanced, so did the sophistication of social engineering schemes. Today, we encounter scenarios involving highly targeted spear-phishing campaigns, vishing (voice phishing), and even pretexting through social media. These scams manifest as a consequence of a systematic exploration by threat actors, aiming to exploit technological vulnerabilities for illicit gains.
 
 ##### A Historical Prelude: The Emergence of Cybercrime
 
-The history of these scams is entwined with the evolution of technology itself. In the early days of the internet, as connectivity became more accessible, cybercriminals began to explore new avenues of exploitation. I witnessed how they capitalized on the novelty of the digital realm, crafting rudimentary schemes that took advantage of unsuspecting users. The seeds of refund and remote access scams were sown in this era of digital innocence.
+In the late 80s, the internet was in it's infancy, and I had just begun my learning computer programming. With the world becoming increasingly connected "online," cybercriminals evolved their social engineering tactics. The interconnectedness of individuals on Bulletin Board Services (BBSes) provided a fertile ground for the early stages of online scams. Cybercriminals began refining their methods to deceive unsuspecting users who were navigating this novel digital landscape. 
+
+The early 90s witnessed a formative moment with the emergence of HTML. As a simple markup language, HTML transformed website design, making it accessible and easy to learn. This shift marked a blessing for the internet, empowering individuals to create and share content in a standardized way. However, as technology advanced, so did the skills of cybercriminals. The newfound simplicity of website design, facilitated by HTML, became both a boon and a challenge. Cybercriminals seized the opportunity to learn the nuances of web technology, exploiting vulnerabilities for malicious purposes.
+
+In 1994, Yahoo entered the game as a web directory. Initially named "Jerry and David's Guide to the World Wide Web," it quickly evolved into one of the pioneering web portals, offering a range of services beyond directory listings. We had entered an era where every household had a computer, and every computer was connected to the internet. The entire world was now online, and gathered in commiunities and chat rooms all in one place. The sense of digital innocence that characterized the cyber landscape during this time was the backdrop for the planting of seeds for scams like refund and remote access scams. The perpetrators capitalized on the novelty of the online environment, taking advantage of individuals who were still in the process of understanding and navigating the intricacies of evolving web technology. 
+
 
 ##### Rise of the Scammers: Adaptation and Refinement
 
-As the digital landscape matured, so did the tactics of cybercriminals. Refund and remote access scams transformed from simple ploys into elaborate dances of deception. I observed how scammers began to leverage social engineering techniques, preying on human psychology and emotions. They realized that manipulating trust, urgency, and fear could be powerful tools in their arsenal.
+As the digital landscape matured, so did the tactics of cybercriminals. Refund and remote access scams transformed from simple ploys to trick users inteo disclosing information into elaborate dances of deception design to part them from their hard earned savings. I observed how scammers leveraged social engineering techniques against the online masses, preying on human psychology and emotions. They realized that manipulating trust, urgency, and fear could be powerful tools in their arsenal.
 
 ##### Enter the Call Center Cells: A Global Enterprise
 
