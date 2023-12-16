@@ -25,7 +25,7 @@ In 1994, Yahoo entered the game as a web directory. Initially named "Jerry and D
 
 ##### Rise of the Scammers: Adaptation and Refinement
 
-As the digital landscape matured, so did the tactics of cybercriminals. Refund and remote access scams transformed from simple ploys to trick users inteo disclosing information into elaborate dances of deception design to part them from their hard earned savings. I observed how scammers leveraged social engineering techniques against the online masses, preying on human psychology and emotions. They realized that manipulating trust, urgency, and fear could be powerful tools in their arsenal.
+As the digital landscape matured, so did the tactics of cybercriminals. Refund and remote access scams transformed from simple ploys to trick users inteo disclosing information into elaborate dances of deception designed to part them from their hard earned savings. I observed how scammers leveraged social engineering techniques against the online masses, preying on human psychology and emotions. They realized that manipulating trust, urgency, and fear could be powerful tools in their arsenal.
 
 ##### Enter the Call Center Cells: A Global Enterprise
 
