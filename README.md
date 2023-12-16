@@ -16,7 +16,7 @@ The evolution of social engineering can be traced through various techniques emp
 
 ##### A Historical Prelude: The Emergence of Cybercrime
 
-In the late 80s, the internet was in it's infancy, and I had just begun my learning computer programming. With the world becoming increasingly connected "online," cybercriminals evolved their social engineering tactics. The interconnectedness of individuals on Bulletin Board Services (BBSes) provided a fertile ground for the early stages of online scams. Cybercriminals began refining their methods to deceive unsuspecting users who were navigating this novel digital landscape. 
+In the late 80s, the internet was in it's infancy, and I had just begun learning computer programming. With the world becoming increasingly connected "online," cybercriminals evolved their social engineering tactics. The interconnectedness of individuals on Bulletin Board Services (BBSes) provided a fertile ground for the early stages of online scams. Cybercriminals began refining their methods to deceive unsuspecting users who were navigating this novel digital landscape. 
 
 The early 90s witnessed a formative moment with the emergence of HTML. As a simple markup language, HTML transformed website design, making it accessible and easy to learn. This shift marked a blessing for the internet, empowering individuals to create and share content in a standardized way. However, as technology advanced, so did the skills of cybercriminals. The newfound simplicity of website design, facilitated by HTML, became both a boon and a challenge. Cybercriminals seized the opportunity to learn the nuances of web technology, exploiting vulnerabilities for malicious purposes.
 
